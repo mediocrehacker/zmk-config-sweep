@@ -60,10 +60,10 @@
 
         left_layer {
             bindings = <
-&trans       &trans  &trans  &trans  &trans    &kp PAGE_UP     &kp DELETE            &kp UP_ARROW           &kp BACKSPACE    &kp TILDE
-&trans       &trans  &trans  &trans  &trans    &kp PAGE_DOWN   &kp LEFT_ARROW        &kp DOWN               &kp RIGHT_ARROW  &kp PIPE
-&bootloader  &trans  &trans  &trans  &trans    &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp DOUBLE_QUOTES
-                             &trans  &trans    &trans          &mo 3
+&trans       &trans  &trans  &trans  &trans    &kp PAGE_UP       &kp DELETE            &kp UP_ARROW           &kp BACKSPACE      &kp TILDE
+&trans       &trans  &trans  &trans  &trans    &kp PAGE_DOWN     &kp LEFT_ARROW        &kp DOWN               &kp RIGHT_ARROW    &kp PIPE
+&bootloader  &trans  &trans  &trans  &trans    &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES
+                             &trans  &trans    &trans            &mo 3
             >;
         };
 
